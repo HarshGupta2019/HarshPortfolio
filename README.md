@@ -22,8 +22,8 @@ This portfolio showcases my projects, technical skills, certifications, and expe
 - Git & GitHub
 - DSA
 
-## Contact
+## Live
 
-Portfolio: Coming Soon
+Portfolio: https://harshgupta2019.github.io/HarshPortfolio/
 
 Made with ❤️ by Harsh Gupta
